@@ -1,4 +1,5 @@
-# CrystalisAPI
+# CrystalisAPI Module Base
+Note: this version is probably outdated
 Newest version created with .NET 9.0 using VelocityAPI.
 # Using API
 ## Injection:
